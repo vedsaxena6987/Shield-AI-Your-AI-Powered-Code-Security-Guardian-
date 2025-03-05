@@ -180,8 +180,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Vansh Goyal**
-- GitHub: [@VanshGoyal000](https://github.com/Vanshgoyal000)
-- Email: vanshgoyal9528@gmail.com
+- GitHub: [@vedsaxena6987](https://github.com/vedsaxena6987)
+- Email: 6987vedsaxena@gmail.com
 
 ## Support
 
