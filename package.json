@@ -29,11 +29,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VanshGoyal000/ShieldAi.git"
+    "url": "https://github.com/vedsaxena6987/Shield-AI-Your-AI-Powered-Code-Security-Guardian-"
   },
-  "bugs": {
-    "url": "https://github.com/VanshGoyal000/ShieldAi.git/issues"
-  },
+
   "homepage": "https://github.com/vedsaxena6987/Shield-AI-Your-AI-Powered-Code-Security-Guardian-/blob/main/README.md",
   "dependencies": {
     "@google/generative-ai": "^0.2.1",
