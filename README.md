@@ -185,8 +185,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For bugs and feature requests, please [create an issue](https://github.com/VanshGoyal000/ShieldAi/issues).
-
 ---
 
 <p align="center">Made with ❤️ using Google's Generative AI</p>
