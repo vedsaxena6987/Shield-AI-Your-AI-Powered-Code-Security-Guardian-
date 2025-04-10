@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Vansh Goyal**
+**Vedant Saxena**
 - GitHub: [@vedsaxena6987](https://github.com/vedsaxena6987)
 - Email: 6987vedsaxena@gmail.com
 
